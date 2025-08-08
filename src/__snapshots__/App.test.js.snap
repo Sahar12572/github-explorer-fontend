@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders GitHub Explorer header 1`] = `
+<DocumentFragment>
+  <div
+    style="padding: 2rem; font-family: Arial, sans-serif;"
+  >
+    <h1>
+      GitHub Explorer 💻✨
+    </h1>
+    <p
+      style="color: green;"
+    >
+      Message from backend: 
+    </p>
+    <form>
+      <input
+        placeholder="Enter GitHub username"
+        type="text"
+        value=""
+      />
+      <button
+        type="submit"
+      >
+        Search
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;
